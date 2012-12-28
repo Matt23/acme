@@ -68,7 +68,7 @@ EOF;
         return $this->loader->getSource($template->getTemplateName());
     }
 
-    /**
+    /** 
      * Returns the name of the extension.
      *
      * @return string The extension name
